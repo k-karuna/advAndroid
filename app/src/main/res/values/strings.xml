@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Karuna Messenger</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_message_list">Список</string>
+    <string name="title_activity_message_detailed_view">Описание</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_title">Заголовок:</string>
+    <string name="fragment_description">Описание:</string>
+</resources>
